@@ -1,7 +1,3 @@
-const SellPage = () => (
-  <div>
-    <p>Hello</p>
-  </div>
-);
+const SellPage = () => <p>Hello</p>;
 
 export default SellPage;

@@ -1,7 +1,3 @@
-const AccountPage = () => (
-  <div>
-    <p>Hello</p>
-  </div>
-);
+const AccountPage = () => <p>Hello</p>;
 
 export default AccountPage;
