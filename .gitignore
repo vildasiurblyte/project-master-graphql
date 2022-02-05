@@ -3,6 +3,8 @@ node_modules/
 *.log
 haters/
 *.next/
+*.next/cache
+frontend/.next/cache
 *.build/
 layout.md
 variables.env
