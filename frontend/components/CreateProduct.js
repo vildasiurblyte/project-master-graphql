@@ -38,6 +38,7 @@ const CreateProduct = () => {
     price: 0,
     description: '',
   });
+  
   const [createProduct, { loading, error, data }] = useMutation(
     CREATE_PRODUCT_MUTATION,
     {
